@@ -54,14 +54,17 @@
 
 </p>
 
-### :zap: Github Stats
 
-  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=MouhebHamza&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=MouhebHamza&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<h2 align="center">Github stats :bar_chart:</h2>
 
+<h4 align="center">Visitor's count :eyes:</h4>
 
+<p align="center"><img src="https://profile-counter.glitch.me/{MouhebHamza}/count.svg" alt="MouhebHamza :: Visitor's Count" /></p>
 
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MouhebHamzai&show_icons=true&hide_border=true&theme=dark)
-![Sumanth's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MouhebHamza&show_icons=true&hide_border=true")-->
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouhebHamza&langs_count=10&theme=tokyonight&layout=compact" alt="MouhebHamza :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MouhebHamza&show_icons=true&theme=synthwave" alt="MouhebHamza :: Profile Stats" /></p>
