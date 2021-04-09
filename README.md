@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mouheb Hamza</h1>
 <h3 align="center">A passionate software developer</h3>
-<p align="center">
 
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-  
-</p>
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
   
