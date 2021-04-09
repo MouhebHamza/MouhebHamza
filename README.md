@@ -6,6 +6,9 @@
   
 </p>
 
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
+  
+### ✨ Quick Facts
 - 🔭 I’m currently working on [Node Projects](https://github.com/MouhebHamza/MouhebHamza)
 
 - 🌱 I’m currently learning **Node, React and more.**
