@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Node, React and more.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MouhebHamza?tab=repositories](https://github.com/MouhebHamza?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/MouhebHamza?tab=repositories)
 
-- 📫 How to reach me **https://www.linkedin.com/in/mouheb-hamza/**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mouheb-hamza/)
 
 - ⚡ Fun fact **I love programming and learning about new things**
 
