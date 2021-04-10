@@ -40,19 +40,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
-                width="28" /> To connect with me</h2></summary>
-
-<p align = "center">
- 
-[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/MouhebHamza)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mouheb-hamza/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mouheb_hamza/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mouheb.hamza1/) 
-[![Visits Badge](https://badges.pufler.dev/visits/MouhebHamza/MouhebHamza?style=for-the-badge)](https://github.com/MouhebHamza)
-
-</p>
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
@@ -68,3 +55,19 @@
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MouhebHamza&show_icons=true&theme=synthwave" alt="MouhebHamza :: Profile Stats" /></p>
+
+
+
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
+
+<p align = "center">
+ 
+[<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://github.com/MouhebHamza)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mouheb-hamza/)
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/mouheb_hamza/)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/mouheb.hamza1/) 
+[![Visits Badge](https://badges.pufler.dev/visits/MouhebHamza/MouhebHamza?style=for-the-badge)](https://github.com/MouhebHamza)
+
+</p>
