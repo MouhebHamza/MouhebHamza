@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/MouhebHamza?tab=repositories)
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/mouheb-hamza/)
+- 📫 How to reach me [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/mouheb-hamza/)
 
 - ⚡ Fun fact **I love programming and learning about new things**
 
