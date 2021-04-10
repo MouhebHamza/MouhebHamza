@@ -52,7 +52,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouhebHamza&langs_count=10&theme=tokyonight&layout=compact" alt="MouhebHamza :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile stats :&nbsp; <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/></h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=MouhebHamza&show_icons=true&theme=synthwave" alt="MouhebHamza :: Profile Stats" /></p>
 
