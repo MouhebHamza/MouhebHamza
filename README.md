@@ -48,7 +48,7 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{MouhebHamza}/count.svg" alt="MouhebHamza :: Visitor's Count" /></p>
 
-<h4 align="center">Top langs :tongue:</h4>
+<h4 align="center">Top langs :&nbsp;<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouhebHamza&langs_count=10&theme=tokyonight&layout=compact" alt="MouhebHamza :: Top Langs" /></p>
 
