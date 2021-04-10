@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/MouhebHamza?tab=repositories)
 
-- 📫 How to reach me [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="30px">](https://www.linkedin.com/in/mouheb-hamza/)
+- 📫 How to reach me [<img src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1618046272~hmac=ac875ff8ced18017cc607a9ac67c7078" >](https://www.linkedin.com/in/mouheb-hamza/)
 
 - ⚡ Fun fact **I love programming and learning about new things**
 
