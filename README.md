@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mouheb Hamza</h1>
-<h3 align="center">Software Engineer | Full Stack Web Developper  | Machine Learning Enthusiast</h3>
+<h3 align="center">Software Engineering student </h3>
 
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" />
@@ -7,7 +7,7 @@
 ### ✨ Quick Facts
 - 🔭 I’m currently working on [E-commerce Project](https://github.com/MouhebHamza/React-E-commerce)
 
-- 🌱 I’m currently learning **NextJS, React and more.**
+- 🌱 I’m currently learning **Flutter, React and more.**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/MouhebHamza?tab=repositories)
 
