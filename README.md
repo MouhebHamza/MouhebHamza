@@ -9,6 +9,6 @@
  </p>
 
 ## Social Links
-- [🐥 | Twitter](https://twitter.com/)
+- [🐥 | Twitter](https://twitter.com/DevMouheb)
 - [💼 | LinkedIn](https://linkedin.com/in/mouheb-hamza)
-- [📸 | Instagram](https://instagram.com/)
+- [📸 | Instagram](https://instagram.com/mouheb_hamza/)
